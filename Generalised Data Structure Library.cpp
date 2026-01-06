@@ -1,6 +1,25 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////////
-//                Generalised Data Structure Library
-/////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  Project Name   :   Generic Data Structure Library
+//
+//  Description    :   This project implements a generalized, menu-driven data structure
+//                     library using C++ and object-oriented programming concepts.
+//                     It provides complete implementations of four linked list types:
+//                     1) Singly Linear Linked List
+//                     2) Singly Circular Linked List
+//                     3) Doubly Linear Linked List
+//                     4) Doubly Circular Linked List
+//
+//                     Each linked list supports standard operations such as insertion,
+//                     deletion, display, and counting of nodes. The project is designed
+//                     using dynamic memory allocation, templates, and modular switch-case
+//                     driven menus to demonstrate reusability and scalability.
+//
+//  Author Name    :   Varad Nitin Muley
+//
+//  Date           :   07/01/2026
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 /* 
